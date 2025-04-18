@@ -1,0 +1,33 @@
+--- Research Output ---
+Timestamp: 2025-04-05 15:02:45
+
+Topic: South Asia Population
+
+Summary: The population of South Asia is 2.064.056.491 as of July 1, based on the latest estimates by the United Nations. South Asia is home to one of the world's earliest known civilizations, the Indus civilization, and is one of the most densely populated regions on the planet.
+
+Sources: United Nations, DataWorld
+
+Tools Used: Web Search
+
+--- Research Output ---
+Timestamp: 2025-04-05 15:04:05
+
+Topic: Jerusalem
+
+Summary: Jerusalem is a city in the Southern Levant, on a plateau in the Judaean Mou
+
+Sources: 
+
+Tools Used: Wikipedia
+
+--- Research Output ---
+Timestamp: 2025-04-12 13:39:31
+
+Topic: Best Places to Visit in Prague
+
+Summary: Prague is famous for its Gothic architecture and castle complex. It offers a vibrant city experience with beer gardens, cafes, and a developing foodie scene. Top attractions include Gothic cathedrals, historic castles, and museums. The city is known for its beer culture and modern landmarks like the Dancing House.
+
+Sources: https://www.lonelyplanet.com/czech-republic/prague, https://www.timeout.com/prague/en/things-to-do/best-things-to-do-in-prague
+
+Tools Used: functions.search
+
